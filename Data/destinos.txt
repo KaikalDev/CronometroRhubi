@@ -1,0 +1,200 @@
+Sudão do Sul 🇸🇸
+Sudão 🇸🇩
+Somália 🇸🇴
+Iêmen 🇾🇪
+Afeganistão 🇦🇫
+República Democrática do Congo 🇨🇩
+Síria 🇸🇾
+República Centro-Africana 🇨🇫
+Haiti 🇭🇹
+Myanmar 🇲🇲
+Rússia 🇷🇺
+Ucrânia 🇺🇦
+Chade 🇹🇩
+Mali 🇲🇱
+Burkina Faso 🇧🇫
+Eritreia 🇪🇷
+Coreia do Norte 🇰🇵
+Líbia 🇱🇾
+Etiópia 🇪🇹
+Níger 🇳🇪
+Camarões 🇨🇲
+Moçambique 🇲🇿
+Nigéria 🇳🇬
+Venezuela 🇻🇪
+República do Congo 🇨🇬
+Iraque 🇮🇶
+Paquistão 🇵🇰
+Líbano 🇱🇧
+Zimbábue 🇿🇼
+Guiné 🇬🇳
+Burundi 🇧🇮
+Serra Leoa 🇸🇱
+Libéria 🇱🇷
+Guiné-Bissau 🇬🇼
+Papua-Nova Guiné 🇵🇬
+Uganda 🇺🇬
+Madagascar 🇲🇬
+Togo 🇹🇬
+República do Níger 🇳🇪
+Bangladesh 🇧🇩
+Guiné Equatorial 🇬🇶
+Turcomenistão 🇹🇲
+Tajiquistão 🇹🇯
+Camboja 🇰🇭
+Coreia do Norte 🇰🇵
+Irã 🇮🇷
+Honduras 🇭🇳
+Guatemala 🇬🇹
+El Salvador 🇸🇻
+México 🇲🇽
+Colômbia 🇨🇴
+Equador 🇪🇨
+Bolívia 🇧🇴
+Nicarágua 🇳🇮
+Cuba 🇨🇺
+Bielorrússia 🇧🇾
+Turquia 🇹🇷
+Egito 🇪🇬
+Quênia 🇰🇪
+Mauritânia 🇲🇷
+Djibuti 🇩🇯
+Tanzânia 🇹🇿
+Malauí 🇲🇼
+Zâmbia 🇿🇲
+Zimbábue 🇿🇼
+Eswatini 🇸🇿
+Lesoto 🇱🇸
+Comores 🇰🇲
+Gâmbia 🇬🇲
+Angola 🇦🇴
+Timor-Leste 🇹🇱
+Nepal 🇳🇵
+Sri Lanka 🇱🇰
+Laos 🇱🇦
+Mongólia 🇲🇳
+Filipinas 🇵🇭
+Papua-Nova Guiné 🇵🇬
+Indonésia 🇮🇩
+Índia 🇮🇳
+Paquistão 🇵🇰
+África do Sul 🇿🇦
+Brasil 🇧🇷
+Jamaica 🇯🇲
+República Dominicana 🇩🇴
+Trinidad e Tobago 🇹🇹
+Guiana 🇬🇾
+Belize 🇧🇿
+Suriname 🇸🇷
+Argélia 🇩🇿
+Marrocos 🇲🇦
+Tunísia 🇹🇳
+Jordânia 🇯🇴
+Arábia Saudita 🇸🇦
+Palestina 🇵🇸
+Israel 🇮🇱
+Irã 🇮🇷
+Rússia 🇷🇺
+Sérvia 🇷🇸
+Bósnia e Herzegovina 🇧🇦
+Macedônia do Norte 🇲🇰
+Maranguape - CE
+Eunápolis - BA
+Maracanaú - CE
+Porto Seguro - BA
+Simões Filho - BA
+Jequié - BA
+Caucaia - CE
+Juazeiro - BA
+Cabo de Santo Agostinho - PE
+Santa Rita - PB
+Camaçari - BA
+São Lourenço da Mata - PE
+Feira de Santana - BA
+Salvador - BA
+Itabuna - BA
+Ilhéus - BA
+Teixeira de Freitas - BA
+Alagoinhas - BA
+Vitória da Conquista - BA
+Porto Seguro - BA
+Jaboatão dos Guararapes - PE
+Olinda - PE
+Paulista - PE
+Recife - PE
+Caruaru - PE
+Petrolina - PE
+Fortaleza - CE
+Caucaia - CE
+Sobral - CE
+Juazeiro do Norte - CE
+Manaus - AM
+Macapá - AP
+Porto Velho - RO
+Rio Branco - AC
+Belém - PA
+Ananindeua - PA
+Marituba - PA
+Santarém - PA
+Altamira - PA
+Parauapebas - PA
+São Luís - MA
+Imperatriz - MA
+São José de Ribamar - MA
+Teresina - PI
+Timon - MA
+Maceió - AL
+Arapiraca - AL
+Rio Largo - AL
+Aracaju - SE
+Nossa Senhora do Socorro - SE
+Natal - RN
+Mossoró - RN
+Parnamirim - RN
+João Pessoa - PB
+Campina Grande - PB
+Bayeux - PB
+Patos - PB
+Recife - PE
+Duque de Caxias - RJ
+São João de Meriti - RJ
+Belford Roxo - RJ
+Japeri - RJ
+Queimados - RJ
+Nova Iguaçu - RJ
+São Gonçalo - RJ
+Rio de Janeiro - RJ
+Campos dos Goytacazes - RJ
+Volta Redonda - RJ
+Cariacica - ES
+Serra - ES
+Vila Velha - ES
+Vitória - ES
+Linhares - ES
+Governador Valadares - MG
+Teófilo Otoni - MG
+Montes Claros - MG
+Uberlândia - MG
+Contagem - MG
+Betim - MG
+Ribeirão das Neves - MG
+Belo Horizonte - MG
+Foz do Iguaçu - PR
+Londrina - PR
+Ponta Grossa - PR
+Curitiba - PR
+Colombo - PR
+São José dos Pinhais - PR
+Itajaí - SC
+Florianópolis - SC
+Joinville - SC
+Criciúma - SC
+Porto Alegre - RS
+Canoas - RS
+Pelotas - RS
+Rio Grande - RS
+Viamão - RS
+São Paulo - SP
+Guarulhos - SP
+Campinas - SP
+Osasco - SP
